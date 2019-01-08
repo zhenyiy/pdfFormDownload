@@ -40,6 +40,6 @@ def create_csv_file(input_path, output_path):
                     file.write("\n")
                 idx += 1
 
-
+# give input path and output path
 create_csv_file("submit_form_new_4.pdf", "submit_form_new_4.csv")
 
